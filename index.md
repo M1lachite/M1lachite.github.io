@@ -1,4 +1,5 @@
 BIO
+
 _________
 
 Kristof started his self-taught journey in an IT as he found interest and pure joy in this field, especially in servers and cloud area.
