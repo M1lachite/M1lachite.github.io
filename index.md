@@ -2,7 +2,7 @@ BIO
 
 _________
 
-Kristof started his self-taught journey in a IT as he found interest and pure joy in this field, especially in servers and cloud area.
+Kristof started his self-taught journey in IT as he found interest and pure joy in this field, especially in servers and cloud area.
 
 All the skills which he gained in recent years working outside the IT area allowed him to master time management and consistency in working on projects which created a strong foundation to develop a system of learning fast, including complex topics. 
 
