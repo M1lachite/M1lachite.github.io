@@ -1,6 +1,5 @@
-BIO
-
-_________
+BIO:
+===============
 
 Kristof started his self-taught journey in IT as he found interest and pure joy in this field, especially in servers and cloud area.
 
@@ -11,3 +10,6 @@ Over past year he gained knowledge in administrating Linux server and Bash scrip
 Right now, the scope of his interest of topics to learn oscillates towards networking and cloud computing with using standard tools in the area including Python, Docker, Ansible and Terraform.
 
 After hours, he is crafting his skills in a music area as sound engineer on his own instrumental and field recordings. 
+
+Courses and Certificates:
+===============
