@@ -15,4 +15,4 @@ After hours, he is crafting his skills in a music area as sound engineer on his 
 
 
 - [Trainings and certifications](training_and_certification/README.md)
-==========
+----------
