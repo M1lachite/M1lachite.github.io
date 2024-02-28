@@ -1,6 +1,6 @@
 
 title: Krzysztof Okołotowicz
-#description: Your data are safe with me
+description: Hello there, welcome on my page!
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
