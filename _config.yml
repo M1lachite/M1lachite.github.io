@@ -10,4 +10,7 @@ minima:
       - title: M1lachite_ repository at GitHub
         icon: github
         url: "https://github.com/M1lachite"
+      - title: M1lachite_ linkedin profile
+        icon: linkedin
+        url: "https://www.linkedin.com/in/kristof-o/"
   hide_site_feed_link: true
