@@ -6,3 +6,8 @@ plugins:
 
 minima:
   skin: dark
+social_links:
+     - title: M1lachite_ repository at GitHub
+       icon: github
+       url: "https://github.com/M1lachite"
+hide_site_feed_link: true
