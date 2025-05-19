@@ -1,16 +1,11 @@
 Bio:
 ==========
 
-Kristof started his self-taught journey in IT as he found interest and pure joy in this field, especially in servers and cloud area.
+Hi, I'm Kristof! I’m working towards becoming a Cloud Engineer, and this blog is where I document my progress. I focus on cloud technologies, networking, and automation. Currently, I’m diving into Linux administration, Bash scripting, and tools like Python, Docker, Ansible, and Terraform.
 
-All the skills which he gained in recent years working outside the IT area allowed him to master time management and consistency in working on projects which created a strong foundation to develop a system of learning fast, including complex topics.
+Through this blog, I’ll share my learning experiences, challenges, and breakthroughs as I build my skills and work on real-world projects. My goal is to make complex topics easier to understand, both for myself and for others on a similar journey.
 
-Over past year he gained knowledge in administrating Linux server and Bash scripting which he constantly improves on his small home laboratory.
-
-Right now, the scope of his interest of topics to learn oscillates towards networking and cloud computing with using standard tools in the area including Python, Docker, Ansible and Terraform.
-
-After hours, he is crafting his skills in a music area as sound engineer on his own instrumental and field recordings.
-
+Join me as I explore new technologies, solve problems, and grow in my cloud engineering career.
 
 
 

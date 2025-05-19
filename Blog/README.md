@@ -1,4 +1,9 @@
+---
+layout: default
+title: "Blog"
+---
+
 Blog posts:
 ==========
 
-- [Test](test/README.md)
+- [Setting-up-home-server](/blog/setting-up-home-server/)
