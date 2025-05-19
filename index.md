@@ -1,4 +1,4 @@
 ---
 layout: home
-title: "Hello there!"
+title: "Hello there!2"
 ---
