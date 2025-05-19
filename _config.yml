@@ -1,6 +1,5 @@
 
 title: M1lachite_
-description: Hello there!1
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
