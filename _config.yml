@@ -14,7 +14,7 @@ minima:
       - title: M1lachite_ linkedin profile
         icon: linkedin
         url: "https://www.linkedin.com/in/kristof-o/"
-        title: M1lachite_ udemy profile
-        icon: udemy
+      - title: M1lachite_ udemy profile
+        icon: lightbulb-o
         url: "https://www.udemy.com"
   hide_site_feed_link: true
