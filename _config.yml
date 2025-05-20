@@ -15,6 +15,6 @@ minima:
         icon: linkedin
         url: "https://www.linkedin.com/in/kristof-o/"
       - title: M1lachite_ udemy profile
-        icon: fa-puzzle-piece
+        icon: puzzle-piece
         url: "https://www.udemy.com/user/ko-256"
   hide_site_feed_link: true
