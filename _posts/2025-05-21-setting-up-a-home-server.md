@@ -2,7 +2,6 @@
 layout: post
 author: M1lachite
 title: Setting up a home server
-comments: false
 tags: [linux, server, selfhosted]
 ---
 Hi and welcome to my blog's debut post! I plan to use this area as a sort of journal to record my experiences delving deeply into DevOps and cloud engineering.
